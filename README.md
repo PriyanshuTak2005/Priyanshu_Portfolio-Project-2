@@ -49,3 +49,16 @@ The goal is to provide actionable insights that help optimize outreach strategie
 -> SQL for querying structured data.
 
 -> Power BI for data visualization and analysis.
+
+<br>
+
+
+📢Contributing
+
+Feel free to submit pull requests or open issues if you have suggestions for improvements!
+
+<br>
+
+📄License
+
+This project is licensed under the MIT License.
