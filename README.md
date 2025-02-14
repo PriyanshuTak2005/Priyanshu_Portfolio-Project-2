@@ -1,2 +1,51 @@
 # Priyanshu_Portfolio-Project-2
-This project analyzes GlobalShala’s admission data, focusing on signup trends, social media reach, and gender-based insights. Using Excel, SQL, and Power BI, it provides actionable insights to optimize outreach strategies and improve admissions by understanding seasonal trends, platform effectiveness, and diversity. 
+GlobalShala Admission Analysis
+
+📌 Project Overview
+
+This project analyzes GlobalShala's admission data, focusing on multiple factors such as:
+Signup Trends: Identifying peak months for user signups.
+Admission Reach by Social Media: Evaluating the effectiveness of different social media platforms in attracting applicants.
+Admission Insights by Month and Gender: Understanding admission trends based on time and gender distribution.
+
+The goal is to provide actionable insights that help optimize outreach strategies and improve the admission process.
+
+
+<br>
+<br>
+
+📊 Key Insights
+
+1️⃣ Signup Trends
+
+-> Visualizing the number of signups per month.
+
+-> Identifying seasonal trends and spikes in admissions.
+
+<br>
+
+2️⃣ Admission Reach by Social Media
+
+-> Evaluating the role of platforms like Facebook, LinkedIn, Instagram, and Twitter in driving admissions.
+
+-> Understanding which platform yields the highest conversion rate.
+
+<br> 
+
+3️⃣ Admission Insights by Month and Gender
+
+-> Analyzing how admissions fluctuate across different months.
+
+-> Examining gender-based trends to ensure inclusivity and diversity.
+
+<br>
+
+<br>
+
+🔧 Technologies Used
+
+-> Excel/CSV files as data sources.
+
+-> SQL for querying structured data.
+
+-> Power BI for data visualization and analysis.
